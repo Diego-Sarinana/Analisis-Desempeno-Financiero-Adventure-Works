@@ -35,7 +35,7 @@ O: Abre el siguiente enlace;
 https://docs.google.com/spreadsheets/d/17iHJEa_nTdo7tpCsg9aV4Tee67nAoYR6kUT3YFXiUrc/edit?usp=sharing
   
 📘 Cómo reproducir el análisis:
-1. Tras abrir el archivo en la herramienta elegida puedes dar clic en las hojas de la barra inferior para revisar las modificaciones y resultados obtenidos
+El archivo incluye el resumen ejecutivo del análisis con los resultados de los cálculos de ingresos, costos, margen de ganancia, etc. el cual no requiere de alguna interacción.
    
 🧠 Objetivo del análisis:
 Responder;
