@@ -40,4 +40,7 @@ El archivo incluye el resumen ejecutivo del análisis con los resultados de los 
 🧠 Objetivo del análisis:
 Responder;
 1. ¿Cuánto estamos ganando por país? 
-2. ¿Qué tan rentable es cada mercado considerando los gastos de marketing? 
+2. ¿Qué tan rentable es cada mercado considerando los gastos de marketing?
+
+🗣️ Recomendación de negocio:
+- Considerando que Estados Unidos resulta en tener el mejor mercado por su rentabilidad sobresaliente en contraste con Australia que tiene el menor margen de ganancia y que Francia y Canadá tienen la menor efectividad en cuanto a campañas, la recomendación es dirigir la inversión principal a Estados Unidos y revisar las campañas de Francia y Canadá e identificar los fallos pricnpales para mejorar los resultados.
